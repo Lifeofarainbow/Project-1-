@@ -1,40 +1,52 @@
 # Project-1-
-Cosmetics: Brands with toxic ingredients
+Cosmetics: Ratings, Pricing, Branding and Toxic Ingredients
 
 Alahnah
 Sara
 Raven
 
 Description:  
-The market growth for cosmetics is vastly growing. We want to take a closer look at the top-competing brands and compare their ingredients with those known to the EPA to be toxic. As well as, if their average ratings coincide with the negative effects on the body.
+The cosmetic industry is a large part of the U.S. economy and a huge part of our lives. We want to take a closer look at the top-competing brands, products, and chemicals included in the cosmetics industry. Based on ratings, pricing, ingredients, brand information,  and cosmetic retailers; what are common trends that we can gather from our research?
 
 Research Questions: 
-Which products have the most toxic chemicals known to the EPA?
-What ingredients are linked to cancer, and which brands have the most products with those ingredients?
-Do products with lower ratings coincide with products that contain the toxic chemicals?
-Is there a relationship between product ratings and the price?
-What is the relationship among the product ingredients (toxic?)  and what type of skin works best with those products?
+What brands contain the most toxic chemicals out of the selected brands, and how much do they differ in amounts of toxic products?
+What are the top common toxic chemicals included in the ingredients of cosmetic products?
+Ulta vs. Sephora: Do they share any price trends?
+What are the most popular cosmetic products?
+Are there any notable differences in the attributes (price, ingredients) of the top 10 most popular products from different brands?
 
-Datasets: https://www.kaggle.com/datasets/oftomorrow/herokuapp-makeup-products
-https://github.com/nadyinky/sephora-analysis/tree/main
-https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews
-https://www.fda.gov/cosmetics
-https://data.chhs.ca.gov/dataset/chemicals-in-cosmetics/resource/57da6c9a-41a7-44b0-ab8d-815ff2cd5913
-https://www.ewg.org/the-toxic-twelve-chemicals-and-contaminants-in-cosmetics
-https://www.businessofbusiness.com/articles/beauty-conglomerates-loreal-revlon-coty-estee-lauder-data/
-
-
-Task Breakdown:
-Rough Research - All group members
-Graphs
-Written Analysis
-Code
-
-
-
+Datasets:
+Amazon_Beauty_Recommendation.zip
+Brands with Toxic Ingredients.ipynb
+Caltoxictopchems.ipynb
+Cosmetic Brands Ratings Compared to Toxic Ingredients.ipynb
+Reviewsperbrand.ipynb
+Toxic Chemicals Search.ipynb
+cosmetics.csv
+cosmetics.csv.zip
+cscpopendata.csv
+p65chemicalslist.csv
+p65chemicalslistexcel.csv
+product_info.csv
 
 Task Breakdown:
 Rough Research - All group members
-Graphs
-Written Analysis
-Code
+Raven:
+What brands contain the most toxic chemicals out of the selected brands, and how much do they differ in amounts of toxic products?
+What are the top common toxic chemicals included in the ingredients of cosmetic products?
+-Bar Chart & Pie Chart
+-Individual Analysis
+-Final Group Analysis
+
+Alahnah:
+When comparing Ulta with sephora do they share any of the same price trends?
+Histogram visibly showing the frequency of price for both Ulta and Sephor
+Scatter plot of Ulta proving if there is any correlation between ratings and price 
+
+
+SARA:
+1:What are the most popular cosmetic products?
+ Bar chart: Show the top 10 most popular products based on their rank or customer ratings.
+2:Are there any notable differences in the attributes (price, ingredients) of the top 10 most popular products from different brands?
+Box plot: Compare the price distribution across different brands.
+Word cloud: Visualize the most common ingredients used by different brands.
