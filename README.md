@@ -45,6 +45,10 @@ Alahnah:
 When comparing Ulta with sephora do they share any of the same price trends?
 Histogram visibly showing the frequency of price for both Ulta and Sephora
 Scatter plot of Ulta proving if there is any correlation between ratings and price 
+Analysis:
+When comparing Ulta’s skincare products to Sephora’s products there were some notable price similarities. When looking at the histogram of each they are both right skewed so their price average is greater than their median price. They both only have one peak so one mode. Sephora’s average was 3 times that of Ulta’s at $63 compared to Ulta’s $21. Sephora had a greater price range with a max of $495 compared to Ulta’s max of $85 showing that Ulta is clearly more affordable than Sephora.
+Since there was such a greater spread in price when comparing the two retailers, I wanted to know would there be a correlation of price to ratings to justify Sephora’s higher price range? When looking at the data Sephora had no correlation of price and ratings, and Ulta had a moderate correlation of the two. Sephora had a correlation of .07 and Ulta had a correlation of .32, which again is only a moderate significance.
+Ulta carries a wider variety of products which may be why they are able to price differently than Sephora. When looking at the ratings it does not justify the greater price in skincare products at Sephora. In conclusion, when it comes to value Ulta clearly beats Sephora.
 
 
 SARA:
