@@ -8,6 +8,9 @@ Raven
 Description:  
 The cosmetic industry is a large part of the U.S. economy and a huge part of our lives. We want to take a closer look at the top-competing brands, products, and chemicals included in the cosmetics industry. Based on ratings, pricing, ingredients, brand information,  and cosmetic retailers; what are common trends that we can gather from our research?
 
+Final Analysis:
+Out of the top 5 brands previously mentioned, the top 3 had similar product counts and out of the extensive list of common toxic chemicals, Titanium Dioxide was by far the most used. When comparing sales between Sephora and Ulta, it is clear that Ulta has on average, the cheaper, more affordable products, by a difference of at least $40. Out of the brands, La Mer had on average the most expensive pricing, at an of $184. And the most common ingredients were listed as “extract”. 
+
 Research Questions: 
 What brands contain the most toxic chemicals out of the selected brands, and how much do they differ in amounts of toxic products?
 What are the top common toxic chemicals included in the ingredients of cosmetic products?
