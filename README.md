@@ -43,7 +43,7 @@ What are the top common toxic chemicals included in the ingredients of cosmetic 
 
 Alahnah:
 When comparing Ulta with sephora do they share any of the same price trends?
-Histogram visibly showing the frequency of price for both Ulta and Sephor
+Histogram visibly showing the frequency of price for both Ulta and Sephora
 Scatter plot of Ulta proving if there is any correlation between ratings and price 
 
 
