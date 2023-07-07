@@ -34,6 +34,7 @@ product_info.csv
 
 Task Breakdown:
 Rough Research - All group members
+
 Raven:
 What brands contain the most toxic chemicals out of the selected brands, and how much do they differ in amounts of toxic products?
 What are the top common toxic chemicals included in the ingredients of cosmetic products?
